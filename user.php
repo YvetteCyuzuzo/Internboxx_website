@@ -16,7 +16,7 @@ $confirm = $_POST['confirm'];
 
 // database connection
 
-$sql = "INSERT INTO user VALUES ('$username','$email','$password','$confirm')";
+
            
        
 
@@ -30,6 +30,7 @@ $active_group = 'default';
 $query_builder = TRUE;
 // Connect to DB
 $conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
+$sql = "INSERT INTO user VALUES ('$username','$email','$password','$confirm')";
  if(mysqli_query($conn, $sql))
         { 
   				include 'singup2.php'; 
