@@ -1,4 +1,4 @@
-
+//Connecting file for register.php which is the first Sign up form on the website
     <?php
 //Get Heroku ClearDB connection information
 $cleardb_url = parse_url(getenv("CLEARDB_DATABASE_URL"));
