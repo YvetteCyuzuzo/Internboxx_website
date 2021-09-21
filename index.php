@@ -133,8 +133,10 @@
                               </div>
 
                               <div class="wow fadeInUp" data-wow-delay="0.4s">
-                                   <p>We improve the employment prospect of young people in Rwanda by equipping them with relevant skills and practical exposure through well-tailored internships.</p>
-                                   <p>We aim to bridge the gap between students in Rwanda, who are seeking internship opportunities, and companies/organizations that require interns, by providing a platform for students to apply for internships and for employers to post their internship openings. </p>
+                                   <p>Internboxx is a tech company that is improving the employment prospect of young people in Rwanda by equipping them with relevant skills and practical exposure through well-tailored internships.</p>
+                                   <p>We aim to bridge the gap between students in Rwanda, who are seeking internship opportunities, and firms/organizations that require interns by providing a platform for students to apply for internships and for employers to post their internship openings.
+
+ </p>
                               </div>
                          </div>
                     </div>
@@ -156,7 +158,7 @@
                <div class="section-header">
                     <h2 class="text-center" data-wow-duration="1000ms" data-wow-delay="0.3s">What You Get</h2>
                     <hr class="lines wow zoomIn" data-wow-delay="0.3s">
-                    <p class="text-center" data-wow-duration="1000ms" data-wow-delay="0.3s">Chase Your Dreams and Build your future</p>
+                    <p class="text-center" data-wow-duration="1000ms" data-wow-delay="0.3s">Chase Your Dreams and Build Your Future</p>
                </div>
                <div class="row">
                     <div class="col-md-4 col-sm-6">
@@ -165,7 +167,7 @@
                                    <i class="fa fa-briefcase" aria-hidden="true"></i>
                               </div>
                               <h4>Work Experience</h4>
-                              <p>Acquire practical and real-life work experience by interning with different organizations that are inline with your career aspirations.</p>
+                              <p>Acquire practical skills and real-life work experience by interning with different organizations that are in line with your career aspirations.</p>
                          </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -173,8 +175,9 @@
                               <div class="icon">
                                    <i class="fa fa-cogs" aria-hidden="true"></i>
                               </div>
-                              <h4>In Demand skills</h4>
-                              <p>Up grade your skillset through internships, and stand out in the eyes of all employers.</p>
+                              <h4>In-Demand skills</h4>
+                              <p>Upgrade your skillset through internships, and stand out in the eyes of all employers.
+</p>
                          </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -184,9 +187,9 @@
 
                               </div>
                               <h4>Explore Different Career Paths</h4>
-                              <p>Not sure about which career path to take? No problem!
+                              <p>Not sure about which career path to take? No problem! Seize the internship opportunities to explore various career options.
 
-                                   Seize the internship opportunities to explore various career options .</p>
+</p>
                          </div>
                     </div>
                </div>
