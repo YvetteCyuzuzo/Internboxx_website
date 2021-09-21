@@ -246,7 +246,7 @@
 
                     <a href="index.php">About Us</a>
 
-                    <a href="index.php">What you get</a>
+                    <a href="index.php">What You Get</a>
 
                     <a href="index.php">Contact Us</a>
 
