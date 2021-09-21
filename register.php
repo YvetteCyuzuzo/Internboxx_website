@@ -153,7 +153,7 @@
 
               <form action="user.php" method="post" id="stripe-login">
                 <div class="field padding-bottom--24">
-                  <label for="Fullname">Fullname</label>
+                  <label for="Fullname">Full name</label>
                   <input type="text" name="username">
                 </div>
                 <div class="field padding-bottom--24">
@@ -180,7 +180,7 @@
                   </label>
                 </div>
                 <div class="field padding-bottom--24">
-                  <input type="submit" name="submit" value="SignUp">
+                  <input type="submit" name="submit" value="Sign Up">
                 </div>
 
               </form>
@@ -209,11 +209,11 @@
 
                 <a href="index.php">About</a>
 
-                <a href="index.php">What you get</a>
+                <a href="index.php">What You Get</a>
 
-                <a href="index.php">contact</a>
+                <a href="index.php">Contact</a>
 
-                <a href="register.php">internships</a>
+                <a href="register.php">Internships</a>
               </p>
 
               <p>Internboxx &copy; 2021</p>
