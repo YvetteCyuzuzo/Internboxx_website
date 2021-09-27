@@ -157,7 +157,9 @@
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    <a href="index.html" class="navbar-brand">InternBoxx</a>
+                    <a href="index.php">
+                    <img src="images/With side icon_1.svg" class="logo">
+                    </a>
                </div>
 
                <!-- MENU LINKS -->
