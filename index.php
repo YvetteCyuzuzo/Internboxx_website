@@ -136,7 +136,7 @@
                                    <p>Internboxx is a tech company that is improving the employment prospect of young people in Rwanda by equipping them with relevant skills and practical exposure through well-tailored internships.</p>
                                    <p>We aim to bridge the gap between students in Rwanda, who are seeking internship opportunities, and firms/organizations that require interns by providing a platform for students to apply for internships and for employers to post their internship openings.
 
- </p>
+                                   </p>
                               </div>
                          </div>
                     </div>
@@ -177,7 +177,7 @@
                               </div>
                               <h4>In-Demand skills</h4>
                               <p>Upgrade your skillset through internships, and stand out in the eyes of all employers.
-</p>
+                              </p>
                          </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -189,7 +189,7 @@
                               <h4>Explore Different Career Paths</h4>
                               <p>Not sure about which career path to take? No problem! Seize the internship opportunities to explore various career options.
 
-</p>
+                              </p>
                          </div>
                     </div>
                </div>
