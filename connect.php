@@ -15,6 +15,6 @@
     $sql = "INSERT INTO registration VALUES ('$degree','$interest','$type','$nature')";
     $sql = "INSERT INTO user VALUES ('$degree','$interest','$type','$nature')";
     $result = mysqli_query($conn, $sql);
-    header("Location:https://internboxx.com/patience.html");
+    header("Location:https://internboxx.com/patience.php");
 
     ?>

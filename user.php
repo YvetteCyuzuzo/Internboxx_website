@@ -14,6 +14,6 @@ $confirm = $_POST['confirm'];
 
 $sql = "INSERT INTO user VALUES ('$username','$email','$password','$confirm')";
 $result = mysqli_query($conn, $sql);
-header("Location:https://internboxx.com/signup2.php");
+header("Location:https://internboxx.com/signup.php");
 
 ?>
